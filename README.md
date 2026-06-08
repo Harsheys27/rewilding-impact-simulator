@@ -86,4 +86,4 @@ Client-side only; simulations run in-browser (performance limits for high Monte 
 Simplified LV model (no spatial dynamics, age structure, migration).
 Mock data pipeline/validation (no real backend/IUCN/GBIF integration).
 No persistence/export of results.
-View the app: bun run dev
+View the app: bun run dev. 
