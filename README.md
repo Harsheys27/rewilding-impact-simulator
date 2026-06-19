@@ -240,4 +240,4 @@ SRM Institute of Science and Technology
 
 ---
 
-## ⭐ If you found this project interesting, consider giving the repository a star!
+## If you found this project interesting, consider giving the repository a star!:)
