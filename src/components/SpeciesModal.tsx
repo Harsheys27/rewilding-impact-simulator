@@ -70,9 +70,9 @@ export const SpeciesModal = ({ species, regionId, locationName, onClose, onAddTo
                 {[
                   { icon: Clock, label: 'Period', text: species.period },
                   { icon: Skull, label: 'Extinction Cause', text: species.extinctionCause },
-{ icon: () => <img src="/logo.png" alt="logo" className="w-4 h-4 object-contain" />, label: 'Original Habitat', text: species.habitat },
+                  { icon: TreePine, label: 'Original Habitat', text: species.habitat },
                   { icon: Dna, label: 'Evolution Lineage', text: species.evolvedFrom },
-{ icon: () => <img src="/logo.png" alt="logo" className="w-4 h-4 object-contain" />, label: 'Ecological Role', text: species.ecologicalRole },
+                  { icon: Leaf, label: 'Ecological Role', text: species.ecologicalRole },
                   { icon: FlaskConical, label: 'Reintroduction Benefit', text: species.reintroductionBenefit },
                 ].map(({ icon: Icon, label, text }) => (
                   <div key={label} className="flex gap-3">
