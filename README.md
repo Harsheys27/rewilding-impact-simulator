@@ -233,8 +233,10 @@ npm run build
 
 #  Author
 
+**Divya Dahiya**
 **Harshit Chaturvedi**
 
+B.Tech Biotechnology with Genetic Engineering 
 B.Tech Computer Science and Engineering
 SRM Institute of Science and Technology
 
