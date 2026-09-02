@@ -233,13 +233,14 @@ npm run build
 
 #  Author
 
-**Divya Dahiya**
-
-**Harshit Chaturvedi**
-
---> B.Tech Biotechnology with Genetic Engineering 
---> B.Tech Computer Science and Engineering
-  SRM Institute of Science and Technology
+Divya Dahiya
+B.Tech Biotechnology
+SRM Institute of Science and Technology
+Focused on biotechnology, life sciences, and the application of biological knowledge to sustainable ecosystem and conservation solutions.
+Harshit Chaturvedi
+B.Tech Computer Science and Engineering
+SRM Institute of Science and Technology
+Focused on software development, artificial intelligence, data-driven systems, and building technology-driven solutions for real-world problems.
 
 ---
 
